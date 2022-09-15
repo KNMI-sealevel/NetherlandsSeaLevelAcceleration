@@ -1,6 +1,5 @@
 .DS_Store
 figures/
 data/
-outputs/
 .ipynb_checkpoints/
 __pycache__/
