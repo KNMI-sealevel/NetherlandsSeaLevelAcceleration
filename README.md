@@ -1,7 +1,7 @@
 # NetherlandsSeaLevelAcceleration
 Use local tide gauges and atmospheric reanalyses to study the evolution of the rate of sea level rise over time.
 
-This is the code supporting Keizer et al. 2022, submitted to Ocean Science (add link to preprint).
+This is the code supporting Keizer et al. 2022, [submitted to Ocean Science](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-935/).
 
 The analysis is organised in three steps:
 1. Two Notebooks (*prepare_atmospheric_data.ipynb*, *obtain_pressure_gradient.ipynb*) explain how to download the input data, preprocess the data and export intermediate csv files to **/data_atmosphere**
