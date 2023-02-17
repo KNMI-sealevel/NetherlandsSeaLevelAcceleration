@@ -5,7 +5,7 @@ import spectrum as sp
 
 def mtm(y, dt, NW=2.5, k=4):
     '''Use multi-taper method from the Spectrum library
-    NW is he time half bandwidth parameter
+    NW is the time half bandwidth parameter
     k the number of Slepian sequences to use.
     Additional information on how to use the library:
     https://stackoverflow.com/questions/62836233/multi-taper-spectral-analysis-with-spectrum-in-python'''
