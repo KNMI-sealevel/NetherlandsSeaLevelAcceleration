@@ -1,0 +1,5 @@
+Statistical model,Degrees of freedom,Deviance
+Tr : Trend only,5.3,2103.0
+TrNc : Trend and nodal tide,7.3,1957.0
+"TrNcZw : Trend, nodal tide and wind (velocity)",8.3,1321.0
+"TrNcPd : Trend, nodal tide and wind (pressure)",8.3,1566.0
