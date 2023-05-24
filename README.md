@@ -11,13 +11,13 @@ The analysis is organised in three steps:
 The analysis of sea surface temperature and sea level for the appendix of the manuscript is in the notebook *wind-driven-sea-level_sst_analysis.ipynb*.
 
 ### Reproducibility
-There are 2 conda environment files (because the two spectral packages `mtpec` and `spectrum`):
-1. `NLSL` 
-2. 
+There are 2 conda `environment.yml` files (because the two spectral packages `mtpec` and `spectrum` don't seem to want to be installed at the same time):
+1. `environment_NLSL.yml`: used for almost all code
+2. `environment_NLSL_mtspec.yml`: used for `figures_MV.ipynb`
 
 ### Data provenance
 - tide gauge data (PSMSL)
-- reanalysis for wind (ERA5)
+- reanalysis for wind (20CR, ERA5)
 - SST data (COBESST)
 
 ### License
