@@ -1,0 +1,7 @@
+downloaded from https://psl.noaa.gov/data/correlation/amon.us.long.data
+on 09.03.2023
+removed 2023 data
+
+AMO unsmoothed from the Kaplan SST V2
+  Calculated at NOAA PSL1
+  http://www.psl.noaa.gov/data/timeseries/AMO/
